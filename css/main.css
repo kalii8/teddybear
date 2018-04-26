@@ -1,0 +1,25 @@
+img {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+    color: deeppink;
+    font-family: 'Black Han Sans', sans-serif;
+}
+
+.description {
+    background-color: palevioletred;
+    text-align: center;
+    color: purple;
+    font-family: 'Black Han Sans', sans-serif;
+    font-size: 20px;
+}
+
+.qualities {
+    background-color: plum;
+    text-align: center;
+}
